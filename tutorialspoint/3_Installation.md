@@ -152,3 +152,5 @@ Type :help for more information.
 
 scala> 
 ```
+
+If you re-open the terminal, run the `spark-shell` and don't see the above output, you must change the ~/.bashrc manually. Add this line `PATH="PATH=$PATH:/usr/local/spark/bin"` at the end of the file .bashrc.
