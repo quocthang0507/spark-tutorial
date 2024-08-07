@@ -1,4 +1,4 @@
-# Apache Spark - Introduction
+# Introduction
 
 ## Apache Spark
 
